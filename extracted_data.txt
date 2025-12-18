@@ -1,0 +1,3 @@
+Клиент: Денис Карелов
+Данные: {'client_name': 'Денис Карелов', 'foot_length': {'left': 274.7, 'right': 280.5}, 'foot_width': {'left': 112.5, 'right': 112.6}, 'arch_index': {'left': 0.24, 'right': 0.28}, 'heel_angle': {'left': 9, 'right': 4}, 'hallux_angle': {'left': 4.9, 'right': 8.1}, 'shoe_width': '> G', 'shoe_size': {'left': 43.5, 'right': 44.5}, 'ball_girth': {'left': 270.5, 'right': 269.1}, 'toe_type': 'Egyptian', 'gender': 'Мужской', 'scan_date': '18.12.2025', 'scanner_id': 'FS-001'}
+Риски: {'degenerative': 50, 'spinal': 65, 'traumatic': 50, 'comfort': 85, 'progression': 50}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "client_name": "Денис Карелов",
+    "foot_length": {
+      "left": 274.7,
+      "right": 280.5
+    },
+    "foot_width": {
+      "left": 112.5,
+      "right": 112.6
+    },
+    "arch_index": {
+      "left": 0.24,
+      "right": 0.28
+    },
+    "heel_angle": {
+      "left": 9,
+      "right": 4
+    },
+    "hallux_angle": {
+      "left": 4.9,
+      "right": 8.1
+    },
+    "shoe_width": "> G",
+    "shoe_size": {
+      "left": 43.5,
+      "right": 44.5
+    },
+    "ball_girth": {
+      "left": 270.5,
+      "right": 269.1
+    },
+    "toe_type": "Египетский",
+    "gender": "Мужской",
+    "scan_date": "10.09.2024",
+    "scanner_id": "FS-001"
+  },
+  "risk_scores": {
+    "degenerative": 30,
+    "spinal": 45,
+    "traumatic": 40,
+    "comfort": 35,
+    "progression": 40
+  },
+  "generated": "2025-12-18T14:35:14.240475"
+}
