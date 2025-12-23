@@ -1,0 +1,39 @@
+{
+  "client_name": "Чжэнсюй Чжан",
+  "foot_length": {
+    "left": 271.7,
+    "right": 273.8
+  },
+  "foot_width": {
+    "left": 100.2,
+    "right": 106.8
+  },
+  "ball_girth": {
+    "left": 238.4,
+    "right": 249.2
+  },
+  "arch_index": {
+    "left": 0.27,
+    "right": 0.37
+  },
+  "heel_angle": {
+    "left": 1,
+    "right": 7
+  },
+  "hallux_angle": {
+    "left": 0.27,
+    "right": 0.37
+  },
+  "shoe_size": {
+    "left": 43.5,
+    "right": 43.5
+  },
+  "shoe_width": "a",
+  "toe_type": "Римский",
+  "gender": "Мужской",
+  "scan_date": "2025/12/23",
+  "scanner_id": "100904_000036",
+  "notes": "",
+  "age": "",
+  "shop_name": ""
+}

@@ -1,0 +1,39 @@
+{
+  "client_name": "Арина Власова",
+  "foot_length": {
+    "left": 245.5,
+    "right": 245.3
+  },
+  "foot_width": {
+    "left": 102.3,
+    "right": 103.2
+  },
+  "ball_girth": {
+    "left": 245.5,
+    "right": 245.3
+  },
+  "arch_index": {
+    "left": 0.29,
+    "right": 0.28
+  },
+  "heel_angle": {
+    "left": 1,
+    "right": 5
+  },
+  "hallux_angle": {
+    "left": 0.29,
+    "right": 0.28
+  },
+  "shoe_size": {
+    "left": 39.5,
+    "right": 39.5
+  },
+  "shoe_width": "a",
+  "toe_type": "Римский",
+  "gender": "Женский",
+  "scan_date": "2025/12/23",
+  "scanner_id": "100904_000031",
+  "notes": "",
+  "age": "",
+  "shop_name": ""
+}
